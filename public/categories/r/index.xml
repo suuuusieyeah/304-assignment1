@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on A Hugo website</title>
+    <link>/categories/r/</link>
+    <description>Recent content in R on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Sep 2020 21:13:14 -0500</lastBuildDate><atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How can gender and income affect the election?</title>
+      <link>/2020/09/24/how-can-gender-and-income-affect-the-election/</link>
+      <pubDate>Thu, 24 Sep 2020 21:13:14 -0500</pubDate>
+      
+      <guid>/2020/09/24/how-can-gender-and-income-affect-the-election/</guid>
+      <description>Abstract This paper investigate how gender and income affect the 2019 election and find that the party should care more about women’s requests since they participate more in the election than men. in addition, the income of people who participate in the election is normally distributed.
+ Introduction The objective of the paper is to study how gender and income affect the election via some statistical analysis.
+We give the histogram of income and bar chart of gender and find that the income is normally distributed and more women than men participate in the election.</description>
+    </item>
+    
+  </channel>
+</rss>
